@@ -9,3 +9,4 @@
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
 
 ## DevOps
+* [DevOps Bookmarks](http://www.devopsbookmarks.com/)
