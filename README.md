@@ -12,3 +12,6 @@
 * [DevOps Bookmarks](http://www.devopsbookmarks.com/)
 
 * [400+ Free Resources for DevOps and Sysadmins DevOps](https://dzone.com/articles/400-free-resources-for-devops-amp-sysadmins?edition=166475&utm_source=Spotlight&utm_medium=email&utm_campaign=DevOps%202016-05-06)
+
+## Version Control Systems
+* [Git: Comparing Workflows in Enterprises](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
