@@ -18,3 +18,5 @@
 
 ## Reactive programming
 * [7 Reactive Programming Tools You MUST Know](http://blog.takipi.com/async-goes-mainstream-7-reactive-programming-tools-you-must-know/)
+* [Project Reactor](http://projectreactor.io/)
+* [Parallel Universe](http://www.paralleluniverse.co/)
