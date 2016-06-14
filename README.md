@@ -16,6 +16,7 @@
 * [Git: Comparing Workflows in Enterprises](https://www.atlassian.com/git/tutorials/comparing-workflows/centralized-workflow)
 
 ## Reactive programming
+* [Reactive streams](http://www.reactive-streams.org/)
 * [7 Reactive Programming Tools You MUST Know](http://blog.takipi.com/async-goes-mainstream-7-reactive-programming-tools-you-must-know/)
 * [Project Reactor](http://projectreactor.io/)
 * [Parallel Universe](http://www.paralleluniverse.co/)
