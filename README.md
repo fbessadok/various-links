@@ -1,5 +1,8 @@
 # various-links
 
+## Architecture
+* [Cloud Native Landscape Project](https://github.com/cncf/landscape/)
+
 ## Programming
 * [Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 
